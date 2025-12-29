@@ -48,9 +48,11 @@ $ClientSecret = "Seu-Client-Secret-Aqui"
 
 ### 3. Executar o Script
 
+PowerShell
 ```powershell
 .\script_ooo.ps1
 ```
+Windows PowerShell ISE
 ```Windows PowerShell ISE
 Arquivo > Abrir
 Executar Script (F5)
