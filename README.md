@@ -28,8 +28,11 @@ Este script permite configurar automaticamente mensagens de resposta automática
 2. Navegue até **Azure Active Directory** > **Registros de aplicativo**
 3. Crie um novo registro de aplicativo
 4. Configure as permissões necessárias:
-   - `User.Read.All`
+   - `Mail.Read`
    - `Mail.ReadWrite`
+   - `MailboxSettings.ReadWrite`
+   - `User.Read`
+   - `Mail.Read.All`
 5. Crie um segredo do cliente
 6. Anote: **Tenant ID**, **Client ID** e **Client Secret**
 
