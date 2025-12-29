@@ -51,6 +51,10 @@ $ClientSecret = "Seu-Client-Secret-Aqui"
 ```powershell
 .\script_ooo.ps1
 ```
+```Windows PowerShell ISE
+Arquivo > Abrir
+Executar Script (F5)
+```
 
 ### 4. Fornecer Informações Solicitadas
 
